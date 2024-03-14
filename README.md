@@ -188,7 +188,10 @@ Chunkstyle:
 1. After employing this chunking style of breaking down information into smaller chunks, I found that the article with the highest positive score delves into the realm of online marketing. It discusses how major companies such as Facebook utilize online marketing strategies to promote their products and effectively reach their desired audience.
 2. Likewise, the negative article addresses the effects of the Covid-19 pandemic on the environment.
 
+## **Contributors**
+- Sai Harsha Vardhan Reddy, Kolan- skolan@horizon.csueastbay.edu, harsha62334@gmail.com
 
+Thanks for reading!
 
 
 
